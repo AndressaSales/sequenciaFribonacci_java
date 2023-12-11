@@ -1,18 +1,5 @@
-## Getting Started
+## SequênciaFribonacci
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A sequência de Fibonacci é uma série matemática que inicia com 0 e 1, e cada número subsequente é a soma dos dois anteriores. Portanto, a sequência começa assim: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, e assim por diante.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
